@@ -4,10 +4,10 @@
 Front-end developed in java swing and back-end debveloped in java lnguage. And mySQL database is used to store data.</p>
 
 <h3>Features</h3>
-
-Multipal Users of system (Admin, Guest, computer operator etc).
-admin can Manage Doctor records. 
-computer operator can manage Patient and disease records.
+<ul>
+<li>Multipal Users of system (Admin, Guest, computer operator etc).</li>
+<li>admin can Manage Doctor records. </li>
+<li>computer operator can manage Patient and disease records.</li></ul>
 
 <h4>CLick play button to view demo video<h4/>
   
