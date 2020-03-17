@@ -39,8 +39,8 @@ alt="Click Image to play video" width="600" height="400" border="10" /></a>
 
 Add Patient
 
-<img src="assets/addpatient.PNG" width="950" height="500">
+<img src="assets/addpatient.PNG" width="800" height="500">
 
 Insert Doctor
 
-<img src="assets/insertdoctor.PNG" width="700" height="400">
+<img src="assets/insertdoctor.PNG" width="900" height="400">
