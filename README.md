@@ -9,7 +9,7 @@ Multipal Users of system (Admin, Guest, computer operator etc).
 admin can Manage Doctor records. 
 computer operator can manage Patient and disease records.
 
-<h4>View Demo video<h4/>
+<h4>CLick play button to view demo video<h4/>
   
   <a href="https://www.youtube.com/watch?v=J-ZZ-9TvuqE?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="assets/Swing.PNG" 
 alt="Click Image to play video" width="600" height="400" border="10" /></a>
@@ -23,7 +23,7 @@ alt="Click Image to play video" width="600" height="400" border="10" /></a>
  
  Manage Record Menu
  
- <img src="assets/managerecord.PNG" width="500" height="400">
+ <img src="assets/managerecord.PNG" width="600" height="400">
  
  Search Patient.
  
@@ -39,7 +39,7 @@ alt="Click Image to play video" width="600" height="400" border="10" /></a>
 
 Add Patient
 
-<img src="assets/addpatient.PNG" width="800" height="500">
+<img src="assets/addpatient.PNG" width="950" height="500">
 
 Insert Doctor
 
