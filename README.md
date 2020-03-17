@@ -11,9 +11,9 @@ computer operator can manage Patient and disease records.
 
 <h4>View Demo video<h4/>
   
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+  <a href="https://www.youtube.com/watch?v=J-ZZ-9TvuqE?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="assets/Swing.jpg" 
+alt="Click Image to play video" width="600" height="400" border="10" /></a>
   
 <i src="https://www.youtube.com/watch?v=J-ZZ-9TvuqE">
 <h3>Screen shorts</h3>
