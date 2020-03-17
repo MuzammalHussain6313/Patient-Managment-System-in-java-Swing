@@ -11,13 +11,14 @@ computer operator can manage Patient and disease records.
 
 <h4>View Demo video<h4/>
   
-  <a href="https://www.youtube.com/watch?v=J-ZZ-9TvuqE?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="assets/Swing.jpg" 
+  <a href="https://www.youtube.com/watch?v=J-ZZ-9TvuqE?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="assets/Swing.PNG" 
 alt="Click Image to play video" width="600" height="400" border="10" /></a>
   
-<i src="https://www.youtube.com/watch?v=J-ZZ-9TvuqE">
+
 <h3>Screen shorts</h3>
+  
   Login
+  
 <img src="assets/login.PNG" width="500" height="400">
  
  Manage Record Menu
