@@ -11,7 +11,7 @@ Front-end developed in java swing and back-end debveloped in java lnguage. And m
 
 <h4>CLick play button to view demo video<h4/>
   
-  <a href="https://www.youtube.com/watch?v=J-ZZ-9TvuqE?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="assets/Swing.PNG" 
+  <a href="https://www.youtube.com/watch?v=J-ZZ-9TvuqE" target="_blank"><img src="assets/Swing.PNG" 
 alt="Click Image to play video" width="600" height="400" border="10" /></a>
   
 
